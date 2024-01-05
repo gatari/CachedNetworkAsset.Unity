@@ -1,0 +1,1 @@
+# CachedNetworkAsset.Unity
